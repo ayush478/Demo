@@ -3,7 +3,7 @@ const Footer = () => {
   return (
     <>
       <footer className="bg-light text-center bg-dark footer">
-        <p className="text-light mt-2">@copyright TechAyush.com</p>
+        <p className="text-light mt-2">@copyright Ayush.com</p>
       </footer>
     </>
   );
