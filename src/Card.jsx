@@ -14,7 +14,7 @@ const Card = (props) => {
             lorem
             </p>
             <NavLink to="" className="btn btn-primary">
-              Go somewhere
+              Go 
             </NavLink>
           </div>
         </div>
